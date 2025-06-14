@@ -92,7 +92,7 @@ bandit -r . > relatorio_bandit.txt
 
 ---
 
-## 🗃️ Estrutura de Diretórios
+## Estrutura de Diretórios
 
 ```plaintext
 .
