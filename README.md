@@ -53,7 +53,7 @@ cd challenge_cybersecurity
 2. **Crie e ative um ambiente virtual  (recomendado fazer):**
 
 ```bash
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
 ```
