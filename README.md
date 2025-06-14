@@ -131,8 +131,9 @@ bandit -r . > relatorio_bandit.txt
 ## Projeto Desenvolvido por:
 
 - Lorenzo Ferreira (RM 97318)
-- Fabrício Saavedra (RM 98582)
+- Fabrício Saavedra (RM 97631)
 - Guilherme Morais (RM 551981)
 - Açussena Macedo (RM 552568)
+- Guilherme Akio (RM 98582)
 - 3º Ano de Engenharia de Software – FIAP  
 - Disciplina: Cybersecurity
