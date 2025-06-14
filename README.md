@@ -70,6 +70,21 @@ pip install -r requirements.txt
 python main.py
 ```
 
+5. **Importante: faça o cadastro antes de efetivamente logar no sistema**
+
+Antes de acessar o sistema, é necessário **se cadastrar** utilizando o botão "Cadastre-se" na tela de login.
+
+> O login só funcionará após o cadastro ser concluído com sucesso.
+
+
+6. **Verifique os arquivos na pasta `/data`**
+
+Após o uso do sistema, você pode conferir os dados que foram gerados na pasta `data/`, como:
+
+- `users.json`: usuários que foram cadastrados e as senhas criptografadas
+- `session.json`: controle de sessão ativa
+- `logs.txt`: registro de ações que foram feitas no sistema
+
 ---
 
 ## Rodando o relatório de segurança com Bandit (SAST)
