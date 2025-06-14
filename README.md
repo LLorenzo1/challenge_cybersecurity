@@ -128,7 +128,7 @@ bandit -r . > relatorio_bandit.txt
 
 ---
 
-## Projeot Desenvolvido por:
+## Projeto Desenvolvido por:
 
 - Lorenzo Ferreira (RM 97318)
 - Fabrício Saavedra (RM 98582)
