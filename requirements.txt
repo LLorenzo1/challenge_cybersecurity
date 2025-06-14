@@ -1,0 +1,10 @@
+bcrypt
+pyjwt
+bandit
+semgrep
+tk
+bcrypt
+pyjwt
+customtkinter
+bcrypt
+pyjwt

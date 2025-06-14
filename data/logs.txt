@@ -1,0 +1,5 @@
+[2025-06-11 23:28:44] teste2@gmail.com - Cadastro realizado
+[2025-06-11 23:28:56] teste2@gmail.com - Login bem-sucedido
+[2025-06-11 23:41:48] teste3@gmail.com - Cadastro realizado
+[2025-06-11 23:42:00] teste3@gmail.com - Login bem-sucedido
+[2025-06-11 23:43:15] teste3@gmail.com - Login bem-sucedido
